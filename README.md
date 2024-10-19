@@ -13,3 +13,4 @@ The Data is from Pizza Store regarding their Sales and Revenue.
 * The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name.
 * The Sales report is analysed to get further insights about sales and revenue.
 * Also, the founded insights is visualized through colourful dashboard units along with the insights statements.
+## [Green Freesh Market Data Analysis](Green%20Freesh%20Market%20Data%20Analysis)
