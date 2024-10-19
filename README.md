@@ -14,3 +14,8 @@ The Data is from Pizza Store regarding their Sales and Revenue.
 * The Sales report is analysed to get further insights about sales and revenue.
 * Also, the founded insights is visualized through colourful dashboard units along with the insights statements.
 ## [Green Freesh Market Data Analysis](Green%20Freesh%20Market%20Data%20Analysis)
+The data is from Green Freesh Market regarding their sales, revenue and their customer preferences.
+- The Sales data is for the year of 2019.
+- The data has various factors such as customer and product details like price, discount, after tax of the product and rating of the product that are given by the customers.
+- The report is analysed to get further insights about sales, revenue, understaing customer needs and preferences, and getting a new lead to expanding the business by opening new outlets in cities.
+- Also, the founded insights is visualized through colourful dashboard units along with the insights statements.
