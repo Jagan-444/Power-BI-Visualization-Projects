@@ -5,3 +5,5 @@
 - Find YTD Sales performance by Each City using slicers and create slicer for branch.
 - Create revenue by month using bar chart.
 - Visualize price by category sold using funnel chart.
+## Dashboard
+## Home:
