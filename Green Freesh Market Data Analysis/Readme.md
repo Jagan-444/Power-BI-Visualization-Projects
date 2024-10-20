@@ -7,14 +7,14 @@
 - Visualize price by category sold using funnel chart.
 ## Dashboard
 ## Home:
-(![Screenshot 2024-10-20 184924](https://github.com/user-attachments/assets/881e1e94-85dc-4d94-af6a-4101254ee9d0)
-)
+![Screenshot 2024-10-20 184924](https://github.com/user-attachments/assets/881e1e94-85dc-4d94-af6a-4101254ee9d0)
+
 ## Category:
-(![Screenshot 2024-10-20 184838](https://github.com/user-attachments/assets/f03c386e-af6e-48ce-a87f-1b9fd0ff20a9)
-)
+![Screenshot 2024-10-20 184838](https://github.com/user-attachments/assets/f03c386e-af6e-48ce-a87f-1b9fd0ff20a9)
+
 ## Customers:
-(![Screenshot 2024-10-20 184946](https://github.com/user-attachments/assets/c3f1eb2d-9c70-475c-bbac-00f521856ffb)
-)
+![Screenshot 2024-10-20 184946](https://github.com/user-attachments/assets/c3f1eb2d-9c70-475c-bbac-00f521856ffb)
+
 ## Location:
-(![Screenshot 2024-10-20 185005](https://github.com/user-attachments/assets/98cfee9d-5437-47f7-b09c-08038505c455)
-)
+![Screenshot 2024-10-20 185005](https://github.com/user-attachments/assets/98cfee9d-5437-47f7-b09c-08038505c455)
+
